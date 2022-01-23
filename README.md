@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Grayson Cunha!
 - 🖥️ I am Fullstack developer and I have more experience in Backend.
 - 🌱 I’m currently learning GoLang.
-- 📫 How to reach me grayson.silva@hotmail.com
 
 <div>
   <a href="https://github.com/grayson-cunha">
