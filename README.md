@@ -24,5 +24,5 @@
       <a href="https://www.medium.com/@graysoncunha" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
  <div>
   
-![Snake animation](https://github.com/grayson-cunha/grayson-cunha/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/grayson-cunha/grayson-cunha/blob/output/github-contribution-grid-snake.svg) -->
 
