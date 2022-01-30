@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m Grayson Cunha!
 - 🖥️ I am Fullstack developer and I have more experience in Backend.
-- 🌱 I’m currently learning GoLang.
 
 ## Tech Stack
 <div style="display: inline_block"><br>
