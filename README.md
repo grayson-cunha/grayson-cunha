@@ -32,6 +32,6 @@
 
 ## Github Analytics
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayson-cunha&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/grayson-cunha/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayson-cunha&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/grayson-cunha/github-readme-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grayson-cunha&layout=compact&langs_count=7&theme=dark)](https://github.com/grayson-cunha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grayson-cunha&layout=compact&langs_count=7)](https://github.com/grayson-cunha/github-readme-stats)
