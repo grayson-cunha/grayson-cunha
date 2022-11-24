@@ -1,5 +1,9 @@
 ## 👋 Hi, I’m Grayson Cunha!
 - 🖥️ I am Fullstack developer and I have more experience in Backend.
+- 📚 I always like to learn new things and new tecnologies
+- 🎯 I am focused now in improve my front end skills and learn more about Python
+- ❤️  But my main stack and favorite stack is Javascript
+- ✨ In my free time I like to read (books, mangás), play chess, play video games, get out to have fun and study languages and programming languages. 
 
 ## Tech Stack
 <div style="display: inline_block"><br>
@@ -10,12 +14,14 @@
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MongoDB Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="center" alt="Node Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 </div>
 
 ## I am Learning
 <div style="display: inline_block"><br>
 <img align="center" alt="GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+<img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ## Tools and Platform
