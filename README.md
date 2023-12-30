@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Grayson Cunha!
-- 🖥️ I am Backend developer with +5 yeas of experience.
-- 📚 I always like to learn new things and new tecnologies
-- 🎯 I am focused now in learn more about AWS and Azure to get first certification.
-- ❤️  My main stack is Javascript
+- 🖥️ I am Backend developer with +5 years of experience with backend applications and REST API's.
+- 📚 I always like to learn new things and new tecnologies.
+- 🎯 I am focused now in learn more about cloud providers and new languages.
+- ❤️  My main stack is Javascript.
 - ✨ In my free time I like to read (books, mangás, comic books), play chess, play video games, get out to have fun and study languages and programming languages. 
 
 ## Tech Stack
